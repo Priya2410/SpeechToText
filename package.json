@@ -1,0 +1,24 @@
+{
+  "name": "speechtotext",
+  "version": "1.0.0",
+  "description": "Speech to text",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Priya2410/SpeechToText.git"
+  },
+  "author": "Priya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Priya2410/SpeechToText/issues"
+  },
+  "homepage": "https://github.com/Priya2410/SpeechToText#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}

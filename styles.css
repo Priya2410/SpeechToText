@@ -1,0 +1,20 @@
+textarea{
+    width:50%;
+    margin-top:2%;
+    margin-left: 2%;
+    display: block;
+}
+#speed{
+    margin-top: 2%;
+}
+label{
+    margin-left: 2%;
+}
+button{
+    background-color: aqua;
+    font-size:120%;
+    border: none;
+}
+body{
+    margin:0 auto;
+}
